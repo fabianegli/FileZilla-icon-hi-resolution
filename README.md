@@ -15,7 +15,7 @@ The following steps lead to my proposed icons file. Steps 3.-5. can be done by r
 
 Shortcomings of this project
 ============================
-This version of the high resolution icon for FileZilla is based on the SVG from Wikipedia. Even though for I think for me it was a reasonable choice, there is a more detailed version of the logo available from http://opensourcebydesign.org/files/filezilla-hires-icon.zip but for me, it still looks/is a little bit pixelated in the 512x512@2x version.
+This version of the high resolution icon for FileZilla is based on the SVG from Wikipedia. Even though I think for me it was a reasonable choice, there is a more detailed version of the logo available from http://opensourcebydesign.org/files/filezilla-hires-icon.zip but for me, it still looks/is a little bit pixelated in the 512x512@2x version.
 
 Aknowldgement
 =============
