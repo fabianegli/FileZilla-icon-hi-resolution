@@ -3,6 +3,8 @@ FileZilla-icon-hi-resolution
 
 My contribution to a high resolutino icon for FileZilla. This project is purely driven by my passion to make our daily life more beautiful.
 
+*The FileZillaHighResolution.icns of this little project was integrated into FileZilla as FileZilla.icns in [revision 6135](http://svn.filezilla-project.org/filezilla?view=rev&amp;revision=6135) on October 23, 2014. It is fun to see it is actually used!*
+
 Workflow
 ========
 The following steps lead to my proposed icons file. Steps 3.-5. can be done by running the icns-maker.sh script.
